@@ -23,11 +23,8 @@ e sempre busco maneiras de aplicar na prática o que aprendo.
 ---
 
 ## 🤝 Vamos nos conectar?
-<div>
-<a href="[https://www.linkedin.com/in/fernanda-castilhos-3b8b6817a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:fecastilhos@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernanda-castilhos-3b8b6817a/)  
+- 📧 [fernanda@email.com](mailto:fecastilhos@gmail.com)
 ---
 
 
