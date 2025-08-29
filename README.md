@@ -8,7 +8,7 @@
 
 ## 🌱 Um pouco sobre mim
 
-Sou apaixonada por tecnologia e estou em constante aprendizado. Já fiz um curso básico HTML,CSS e Javascript e no momento estou estudando Flutter e aproveitando o Bootcamp de Backend com Python.
+Sou apaixonada por tecnologia e estou em constante aprendizado. Já fiz um curso básico HTML,CSS e Javascript e no momento estou estudando Flutter e aproveitando o Bootcamp de Backend com Python
 e sempre busco maneiras de aplicar na prática o que aprendo.
 
 ---
