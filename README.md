@@ -17,7 +17,6 @@ e sempre busco maneiras de aplicar na prática o que aprendo.
 
 - ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) Desenvolvimento mobile  
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Backend com Python  
-- 🌍 Inglês — diariamente no Duolingo
 - 🧠 Desenvolvimento pessoal e organização (acredito que soft skills importam muito!)
 
 ---
